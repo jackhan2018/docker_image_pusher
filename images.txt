@@ -1,3 +1,3 @@
 #支持指定架构
---platform=linux/arm32 xiaoyaliu/alist
---platform=linux/arm32 xhofe/alist:latest
+--platform=linux/arm xiaoyaliu/alist
+--platform=linux/arm xhofe/alist:latest
