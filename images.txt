@@ -1,3 +1,5 @@
 #支持指定架构
---platform=linux/arm xiaoyaliu/alist
---platform=linux/arm xhofe/alist:latest
+#--platform=linux/arm xiaoyaliu/alist
+#--platform=linux/arm xhofe/alist:latest
+--platform=linux/arm nriver/trilium-cn:latest
+nriver/trilium-cn:latest
